@@ -8,3 +8,4 @@ Um sistema de notificação diário simples, desenvolvido em JavaScript usando a
 
 # Images
 
+![image](https://github.com/lucasddoliveira/Contract-Reminder-Email/assets/85253035/8f3d9f82-caa5-4726-bb92-ab963408a838)
